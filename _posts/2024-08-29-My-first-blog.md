@@ -1,6 +1,6 @@
 ---
-title: "2024-08-29-My-first-blog.md"
-date: 2024-08-29d
+title: "A short remark"
+date: 2024-08-29
 ---
 
 Oh Binx, you love to make my life difficult.
