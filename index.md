@@ -19,8 +19,9 @@ Here is some text :)
 
 **Or is it?**
 
-- Yo quiero
-- Taco Bell
-- [ ] Can I have your number?
+- Yo quiero Taco Bell.
+
+
+Can I have your number?
 - [x] Yes
 - [ ] No
